@@ -1,2 +1,2 @@
 # NaCo_NicheConstruction
-Niche construction sim
+Niche construction simulation using Mesa
